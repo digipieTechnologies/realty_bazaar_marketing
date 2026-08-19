@@ -1,5 +1,5 @@
 // File: lib/modules/chat/widgets/say_hello_widget.dart
-// Purpose: Centered placeholder widget shown in empty chat rooms prompting users to say hello in brokerflow-marketing.
+// Purpose: Centered placeholder widget shown in empty chat rooms prompting users to say hello in realty_marketing.
 
 import 'package:flutter/material.dart';
 import '../../../app/app_colors.dart';

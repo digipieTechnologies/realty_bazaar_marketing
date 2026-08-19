@@ -97,7 +97,7 @@ class _ShellLayoutScreenState extends State<ShellLayoutScreen> {
     final profile = context.watch<AuthProvider>().userProfile;
     final String displayName = profile?.name ?? 'Alex Marketing';
     final String displayRole = (profile?.role?.displayName ?? 'Marketing Exec').toUpperCase();
-    final String displayEmail = profile?.email ?? 'marketing@brokerhive.com';
+    final String displayEmail = profile?.email ?? 'marketing@realtymarketing.app';
 
     if (isDesktop) {
       return Scaffold(
@@ -212,31 +212,40 @@ class _ShellLayoutScreenState extends State<ShellLayoutScreen> {
               padding: const EdgeInsets.symmetric(horizontal: 12.0),
               child: Row(
                 children: [
-                  const AppLogo(size: 40.0),
-                  const SizedBox(width: 12.0),
-                  Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
-                    children: [
-                      Text(
-                        AppStrings.appName,
-                        style: AppTextStyles.heading3.copyWith(
-                          fontSize: 18.0,
-                          fontWeight: FontWeight.w800,
-                          letterSpacing: -0.2,
-                          color: AppColors.textPrimary,
+                  const AppLogo(size: 36.0),
+                  const SizedBox(width: 10.0),
+                  Expanded(
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        FittedBox(
+                          fit: BoxFit.scaleDown,
+                          alignment: Alignment.centerLeft,
+                          child: Text(
+                            AppStrings.appName,
+                            style: AppTextStyles.heading3.copyWith(
+                              fontSize: 16.0,
+                              fontWeight: FontWeight.w800,
+                              letterSpacing: -0.2,
+                              color: AppColors.textPrimary,
+                            ),
+                          ),
                         ),
-                      ),
-                      const SizedBox(height: 2.0),
-                      Text(
-                        context.tr('growth_platform'),
-                        style: AppTextStyles.caption.copyWith(
-                          fontSize: 9.0,
-                          fontWeight: FontWeight.w700,
-                          color: AppColors.textMuted,
-                          letterSpacing: 1.0,
+                        const SizedBox(height: 2.0),
+                        Text(
+                          context.tr('growth_platform'),
+                          style: AppTextStyles.caption.copyWith(
+                            fontSize: 9.0,
+                            fontWeight: FontWeight.w700,
+                            color: AppColors.textMuted,
+                            letterSpacing: 1.0,
+                          ),
+                          maxLines: 1,
+                          overflow: TextOverflow.ellipsis,
                         ),
-                      ),
-                    ],
+                      ],
+                    ),
                   ),
                 ],
               ),

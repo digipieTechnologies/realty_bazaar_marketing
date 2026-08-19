@@ -1,5 +1,5 @@
 // File: lib/modules/chat/widgets/message_type/file_message_widget.dart
-// Purpose: Document and file attachment message bubble component featuring extension badge box, filename, preview action (eye icon), and download action in Brokerflow Marketing.
+// Purpose: Document and file attachment message bubble component featuring extension badge box, filename, preview action (eye icon), and download action in Realty Marketing.
 
 import 'package:flutter/material.dart';
 import '../../../../app/app_colors.dart';

@@ -1,5 +1,5 @@
 // File: lib/models/chat_message_model.dart
-// Purpose: Type-safe model for chat messages supporting multi-media, soft delete, edit tracking, and locationData JSON in brokerflow-marketing.
+// Purpose: Type-safe model for chat messages supporting multi-media, soft delete, edit tracking, and locationData JSON in realty_marketing.
 
 import 'package:equatable/equatable.dart';
 import 'chat_enums.dart';

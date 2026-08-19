@@ -1,5 +1,5 @@
 // File: lib/widgets/dialogs/app_file_preview_dialog.dart
-// Purpose: Full-screen file preview modal supporting image zoom, text/CSV/SQL preview, video/document viewing, and browser launching in Brokerflow Marketing.
+// Purpose: Full-screen file preview modal supporting image zoom, text/CSV/SQL preview, video/document viewing, and browser launching in Realty Marketing.
 
 import 'dart:io';
 import 'package:dio/dio.dart';

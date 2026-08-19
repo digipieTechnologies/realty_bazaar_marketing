@@ -1,5 +1,5 @@
 // File: lib/providers/brokers/brokers_provider.dart
-// Purpose: Manage state and Supabase client RPC calls for the brokers registry tab in Brokerflow-ads.
+// Purpose: Manage state and Supabase client RPC calls for the brokers registry tab in realty_marketing.
 
 import 'package:flutter/material.dart';
 import '../../core/supabase/supabase_config.dart';

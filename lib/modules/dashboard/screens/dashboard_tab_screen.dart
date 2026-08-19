@@ -58,7 +58,7 @@ class _DashboardTabScreenState extends State<DashboardTabScreen> {
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text(
-                  'Welcome to BrokerHive Ads',
+                  'Welcome to Realty Marketing',
                   style: AppTextStyles.heading1.copyWith(
                     color: Colors.white,
                     fontWeight: FontWeight.bold,

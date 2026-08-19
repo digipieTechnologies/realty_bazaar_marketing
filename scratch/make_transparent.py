@@ -2,7 +2,7 @@ import os
 from PIL import Image
 
 input_path = '/Users/mac/.gemini/antigravity-ide/brain/7451f69b-a197-4c5f-aa47-13770753effc/app_logo_white_1784902864395.png'
-output_path = '/Users/mac/Public/flutter_projects/brokerhive/brokerflow-marketing/assets/logo/app_logo.png'
+output_path = '/Users/mac/Public/flutter_projects/realty_bazaar_marketing/assets/logo/app_logo.png'
 
 if not os.path.exists(input_path):
     print("Input image not found!")

@@ -1,5 +1,5 @@
 // File: lib/modules/chat/dialogs/chat_dialog.dart
-// Purpose: Generic responsive Chat Dialog with header (flush edge-to-edge), date headers, reverse ListView scroll pagination, real-time streaming, soft delete, inline edit, and self-contained input bar in brokerflow-marketing.
+// Purpose: Generic responsive Chat Dialog with header (flush edge-to-edge), date headers, reverse ListView scroll pagination, real-time streaming, soft delete, inline edit, and self-contained input bar in realty_marketing.
 
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

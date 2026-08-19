@@ -268,7 +268,7 @@ class _ResetPasswordScreenState extends State<ResetPasswordScreen> {
             ),
             const SizedBox(height: 16.0),
             Text(
-              'Set a strong, new password to protect your BrokerHive Ads campaigns and budget controls.',
+              'Set a strong, new password to protect your Realty Marketing campaigns and budget controls.',
               style: TextStyle(
                 color: Colors.white.withOpacity(0.85),
                 fontSize: 15.0,
@@ -330,7 +330,7 @@ class _ResetPasswordScreenState extends State<ResetPasswordScreen> {
 
   Widget _copyrightFooter() {
     return Text(
-      '© ${DateTime.now().year} BrokerHive Ads. All rights reserved.',
+      '© ${DateTime.now().year} Realty Marketing. All rights reserved.',
       style: AppTextStyles.caption.copyWith(color: AppColors.textMuted),
       textAlign: TextAlign.center,
     );

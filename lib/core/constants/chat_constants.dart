@@ -1,5 +1,5 @@
 // File: lib/core/constants/chat_constants.dart
-// Purpose: Centralized configuration constants for the chat module in brokerflow-marketing.
+// Purpose: Centralized configuration constants for the chat module in realty_marketing.
 
 class ChatConstants {
   ChatConstants._();

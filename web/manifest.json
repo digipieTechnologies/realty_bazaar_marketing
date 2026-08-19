@@ -1,11 +1,11 @@
 {
-    "name": "BrokerHive Ads",
-    "short_name": "BrokerHive Ads",
+    "name": "Realty Marketing",
+    "short_name": "Realty Marketing",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#F8FAFC",
     "theme_color": "#6366F1",
-    "description": "BrokerHive Ads Portal - Manage advertising campaigns and marketing assets.",
+    "description": "Realty Marketing Portal - Manage advertising campaigns and marketing assets.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

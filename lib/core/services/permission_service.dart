@@ -63,7 +63,7 @@ class PermissionService {
         context: context,
         title: 'Photos & Media Permission',
         description:
-            'Brokerflow-Ads needs access to your photos and media library so you can select and upload marketing media. Please allow access in App Settings.',
+            'Realty Marketing needs access to your photos and media library so you can select and upload marketing media. Please allow access in App Settings.',
         icon: Icons.photo_library_rounded,
         primaryButtonText: 'Open Settings',
         onPrimaryPressed: () async {
@@ -106,7 +106,7 @@ class PermissionService {
         context: context,
         title: 'Camera Permission Required',
         description:
-            'Brokerflow-Ads needs camera access so you can capture marketing photos and videos directly in the app. Please allow access in App Settings.',
+            'Realty Marketing needs camera access so you can capture marketing photos and videos directly in the app. Please allow access in App Settings.',
         icon: Icons.camera_alt_rounded,
         primaryButtonText: 'Open Settings',
         onPrimaryPressed: () async {
@@ -161,7 +161,7 @@ class PermissionService {
         context: context,
         title: 'Location Permission Required',
         description:
-            'Brokerflow needs access to your device location to share your current position. Please allow location access in App Settings.',
+            'Realty Marketing needs access to your device location to share your current position. Please allow location access in App Settings.',
         icon: Icons.location_on_rounded,
         primaryButtonText: 'Open Settings',
         onPrimaryPressed: () async {

@@ -1,5 +1,5 @@
 // File: lib/widgets/shimmer/chat_shimmer_widget.dart
-// Purpose: Standalone reusable shimmer loading placeholder for chat in brokerflow-marketing.
+// Purpose: Standalone reusable shimmer loading placeholder for chat in realty_marketing.
 
 import 'package:flutter/material.dart';
 import '../../app/app_colors.dart';

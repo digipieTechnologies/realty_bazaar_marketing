@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.digipie.brokerflow.marketing" "\0"
-            VALUE "FileDescription", "brokerflow_marketing" "\0"
+            VALUE "CompanyName", "com.realtymarketing.app" "\0"
+            VALUE "FileDescription", "Realty Marketing" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "brokerflow_marketing" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2026 com.digipie.brokerflow.marketing. All rights reserved." "\0"
-            VALUE "OriginalFilename", "brokerflow_marketing.exe" "\0"
-            VALUE "ProductName", "brokerflow_marketing" "\0"
+            VALUE "InternalName", "realty_marketing" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2026 com.realtymarketing.app. All rights reserved." "\0"
+            VALUE "OriginalFilename", "realty_marketing.exe" "\0"
+            VALUE "ProductName", "Realty Marketing" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

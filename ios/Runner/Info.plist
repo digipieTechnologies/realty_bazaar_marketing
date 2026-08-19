@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Brokerflow-Ads</string>
+	<string>Realty Marketing</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +13,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Brokerflow-Ads</string>
+	<string>Realty Marketing</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -42,17 +42,17 @@
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Brokerflow-Ads requires access to your photo library to select and upload marketing photos and videos.</string>
+	<string>Realty Marketing requires access to your photo library to select and upload marketing photos and videos.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string>Brokerflow-Ads requires permission to save photos and videos to your photo library.</string>
+	<string>Realty Marketing requires permission to save photos and videos to your photo library.</string>
 	<key>NSCameraUsageDescription</key>
-	<string>Brokerflow-Ads requires camera access to capture marketing photos and videos directly in the app.</string>
+	<string>Realty Marketing requires camera access to capture marketing photos and videos directly in the app.</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>Brokerflow-Ads requires microphone access to record videos with audio.</string>
+	<string>Realty Marketing requires microphone access to record videos with audio.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Brokerflow-Ads requires access to your location to share your current position with users in chat.</string>
+	<string>Realty Marketing requires access to your location to share your current position with users in chat.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>Brokerflow-Ads requires access to your location to share your current position with users in chat.</string>
+	<string>Realty Marketing requires access to your location to share your current position with users in chat.</string>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>fetch</string>

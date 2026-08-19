@@ -1,5 +1,5 @@
 // File: lib/modules/chat/widgets/chat_input_bar_widget.dart
-// Purpose: Self-contained Chat input bar widget managing TextEditingController, FocusNode, + attachment options popup menu (Media & Location), attachment previews, reply strip, and ChatProvider message dispatching in brokerflow-marketing.
+// Purpose: Self-contained Chat input bar widget managing TextEditingController, FocusNode, + attachment options popup menu (Media & Location), attachment previews, reply strip, and ChatProvider message dispatching in realty_marketing.
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

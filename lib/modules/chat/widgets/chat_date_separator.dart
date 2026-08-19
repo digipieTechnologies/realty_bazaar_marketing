@@ -1,5 +1,5 @@
 // File: lib/modules/chat/widgets/chat_date_separator.dart
-// Purpose: Centered pill date separator widget with short fading gradient lines on both sides in brokerflow-marketing.
+// Purpose: Centered pill date separator widget with short fading gradient lines on both sides in realty_marketing.
 
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';

@@ -137,7 +137,7 @@ class _SplashScreenState extends State<SplashScreen>
                       ),
                       const SizedBox(height: 24.0),
                       const Text(
-                        'BrokerHive',
+                        'Realty',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 36.0,
@@ -147,7 +147,7 @@ class _SplashScreenState extends State<SplashScreen>
                       ),
                       const SizedBox(height: 4.0),
                       Text(
-                        context.tr('brokerflow_marketing').toUpperCase(),
+                        context.tr('realty_marketing').toUpperCase(),
                         style: const TextStyle(
                           color: AppColors.primary, // Indigo accent
                           fontSize: 14.0,

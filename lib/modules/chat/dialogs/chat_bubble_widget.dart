@@ -1,5 +1,5 @@
 // File: lib/modules/chat/dialogs/chat_bubble_widget.dart
-// Purpose: Generic Chat bubble widget delegating rendering based on ChatMessageMessageType, separating document attachments into FileMessageWidget and images/videos into MediaGridMessageWidget in brokerflow-marketing.
+// Purpose: Generic Chat bubble widget delegating rendering based on ChatMessageMessageType, separating document attachments into FileMessageWidget and images/videos into MediaGridMessageWidget in realty_marketing.
 
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';

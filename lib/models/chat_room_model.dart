@@ -1,5 +1,5 @@
 // File: lib/models/chat_room_model.dart
-// Purpose: Generic ChatRoomModel for chat rooms in brokerflow-marketing.
+// Purpose: Generic ChatRoomModel for chat rooms in realty_marketing.
 
 import 'package:equatable/equatable.dart';
 

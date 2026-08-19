@@ -1,5 +1,5 @@
 // File: lib/models/chat_enums.dart
-// Purpose: Type-safe PostgreSQL and Flutter enums for generic chat features across all modules in brokerflow-marketing.
+// Purpose: Type-safe PostgreSQL and Flutter enums for generic chat features across all modules in realty_marketing.
 
 enum ChatMessageMessageType {
   text('text'),

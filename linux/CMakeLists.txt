@@ -4,9 +4,9 @@ project(runner LANGUAGES CXX)
 
 # The name of the executable created for the application. Change this to change
 # the on-disk name of your application.
-set(BINARY_NAME "brokerhive_ads")
+set(BINARY_NAME "realty_marketing")
 # The application ID of your application.
-set(APPLICATION_ID "com.brokerhive.ads")
+set(APPLICATION_ID "com.realtymarketing.app")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

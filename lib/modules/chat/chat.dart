@@ -1,5 +1,5 @@
 // File: lib/modules/chat/chat.dart
-// Purpose: Barrel export file for Chat module in brokerflow-marketing.
+// Purpose: Barrel export file for Chat module in realty_marketing.
 
 export 'dialogs/chat_dialog.dart';
 export 'dialogs/chat_bubble_widget.dart';

@@ -1,5 +1,5 @@
 // File: lib/widgets/images/cached_image.dart
-// Purpose: Unified, robust image caching widget handling network URLs, local image files, asset images, memory bytes, and video file fallbacks cleanly without raw decoding exceptions in brokerflow-marketing.
+// Purpose: Unified, robust image caching widget handling network URLs, local image files, asset images, memory bytes, and video file fallbacks cleanly without raw decoding exceptions in realty_marketing.
 
 import 'dart:io';
 import 'package:flutter/foundation.dart';

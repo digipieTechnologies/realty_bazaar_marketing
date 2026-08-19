@@ -1,5 +1,5 @@
 // File: lib/modules/chat/widgets/chat_attachment_preview_widget.dart
-// Purpose: Multi-attachment horizontal preview strip rendering images/videos as thumbnails and non-image files as grey extension cards (matching SS 3) in brokerflow-marketing.
+// Purpose: Multi-attachment horizontal preview strip rendering images/videos as thumbnails and non-image files as grey extension cards (matching SS 3) in realty_marketing.
 
 import 'dart:io' as io;
 import 'package:flutter/material.dart';

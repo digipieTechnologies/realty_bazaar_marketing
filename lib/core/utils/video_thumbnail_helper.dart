@@ -1,5 +1,5 @@
 // File: lib/core/utils/video_thumbnail_helper.dart
-// Purpose: Helper class to extract video frames/thumbnails locally across iOS, Android, and macOS desktop in brokerflow-marketing.
+// Purpose: Helper class to extract video frames/thumbnails locally across iOS, Android, and macOS desktop in realty_marketing.
 
 import 'dart:io' as io;
 import 'package:flutter/foundation.dart';

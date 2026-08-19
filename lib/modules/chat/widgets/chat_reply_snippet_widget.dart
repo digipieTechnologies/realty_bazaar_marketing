@@ -1,5 +1,5 @@
 // File: lib/modules/chat/widgets/chat_reply_snippet_widget.dart
-// Purpose: Standalone reusable widget for rendering inline reply snippets inside chat bubbles in brokerflow-marketing.
+// Purpose: Standalone reusable widget for rendering inline reply snippets inside chat bubbles in realty_marketing.
 
 import 'package:flutter/material.dart';
 import '../../../app/app_colors.dart';

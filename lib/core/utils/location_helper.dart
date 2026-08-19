@@ -1,5 +1,5 @@
 // File: lib/core/utils/location_helper.dart
-// Purpose: Centralized helper utility for location permission checks and fetching current GPS coordinates with zero hardcoded defaults in brokerflow-marketing.
+// Purpose: Centralized helper utility for location permission checks and fetching current GPS coordinates with zero hardcoded defaults in realty_marketing.
 
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';

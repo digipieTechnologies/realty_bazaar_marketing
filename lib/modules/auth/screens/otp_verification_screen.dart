@@ -1,5 +1,5 @@
 // File: lib/modules/auth/screens/otp_verification_screen.dart
-// Purpose: Interactive, responsive OTP verification screen matching the BrokerHive Ads design system.
+// Purpose: Interactive, responsive OTP verification screen matching the Realty Marketing design system.
 
 import 'dart:async';
 import 'package:flutter/material.dart';

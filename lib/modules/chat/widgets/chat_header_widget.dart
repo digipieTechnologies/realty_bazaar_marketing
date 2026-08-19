@@ -1,5 +1,5 @@
 // File: lib/modules/chat/widgets/chat_header_widget.dart
-// Purpose: Standalone reusable chat header widget displaying title, subtitle/property, status badge, and close button in brokerflow-marketing.
+// Purpose: Standalone reusable chat header widget displaying title, subtitle/property, status badge, and close button in realty_marketing.
 
 import 'package:flutter/material.dart';
 import '../../../app/app_colors.dart';

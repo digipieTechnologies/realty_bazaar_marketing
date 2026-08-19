@@ -1,5 +1,5 @@
 // File: lib/widgets/buttons/app_popup_menu_button.dart
-// Purpose: Unified popup menu helper and button widget across the application with accurate widget bounds positioning, upward opening support, and themed styling in brokerflow-marketing.
+// Purpose: Unified popup menu helper and button widget across the application with accurate widget bounds positioning, upward opening support, and themed styling in realty_marketing.
 
 import 'package:flutter/material.dart';
 import '../../app/app_colors.dart';

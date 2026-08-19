@@ -1,5 +1,5 @@
 // File: lib/core/utils/media_picker_helper.dart
-// Purpose: Centralized utility for requesting permissions, picking images/videos via FilePicker, generating thumbnails, decoding dimensions (width/height/ratio), and enforcing max attachment limits in brokerflow-marketing.
+// Purpose: Centralized utility for requesting permissions, picking images/videos via FilePicker, generating thumbnails, decoding dimensions (width/height/ratio), and enforcing max attachment limits in realty_marketing.
 
 import 'dart:io' as io;
 import 'dart:ui' as ui;

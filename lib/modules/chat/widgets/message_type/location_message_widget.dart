@@ -1,5 +1,5 @@
 // File: lib/modules/chat/widgets/message_type/location_message_widget.dart
-// Purpose: WhatsApp style Location sharing message bubble component with map background thumbnail, pin, location name, and Google Maps URL launcher in brokerflow-marketing.
+// Purpose: WhatsApp style Location sharing message bubble component with map background thumbnail, pin, location name, and Google Maps URL launcher in realty_marketing.
 
 import 'package:flutter/material.dart';
 import '../../../../app/app_colors.dart';

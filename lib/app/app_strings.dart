@@ -5,11 +5,11 @@ class AppStrings {
   AppStrings._();
 
   // App Level
-  static const String appName = 'Brokerflow-Ads';
+  static const String appName = 'Realty Marketing';
   static const String appVersion = '1.0.0';
 
   // Splash & Onboarding Placeholder
-  static const String welcome = 'Welcome to Brokerflow-Ads';
+  static const String welcome = 'Welcome to Realty Marketing';
   static const String loadingConfig =
       'Initializing configuration and services...';
 
@@ -36,7 +36,7 @@ class AppStrings {
   static const String errorTimeout = 'Request timed out. Please try again.';
 
   // Placeholder Screens
-  static const String dashboardTitle = 'Broker Flow Dashboard';
+  static const String dashboardTitle = 'Realty Marketing Dashboard';
   static const String dashboardSubtitle =
       'Your reusable CRM architecture components';
 }

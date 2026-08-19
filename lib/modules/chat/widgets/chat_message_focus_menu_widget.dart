@@ -1,5 +1,5 @@
 // File: lib/modules/chat/widgets/chat_message_focus_menu_widget.dart
-// Purpose: Separate reusable focus menu popup widget handling long-press (mobile) and right-click (desktop/web) using AppPopupMenu helper in brokerflow-marketing.
+// Purpose: Separate reusable focus menu popup widget handling long-press (mobile) and right-click (desktop/web) using AppPopupMenu helper in realty_marketing.
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

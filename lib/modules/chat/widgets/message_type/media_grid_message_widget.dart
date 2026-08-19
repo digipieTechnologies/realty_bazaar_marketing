@@ -1,5 +1,5 @@
 // File: lib/modules/chat/widgets/message_type/media_grid_message_widget.dart
-// Purpose: Reusable media grid widget displaying single or multi-media attachments in WhatsApp style (+X overlay for >4 items) opening FullScreenMediaViewer on tap in brokerflow-marketing.
+// Purpose: Reusable media grid widget displaying single or multi-media attachments in WhatsApp style (+X overlay for >4 items) opening FullScreenMediaViewer on tap in realty_marketing.
 
 import 'package:flutter/material.dart';
 import '../../../../models/models.dart';

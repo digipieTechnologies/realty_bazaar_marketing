@@ -1,5 +1,5 @@
 // File: lib/modules/chat/widgets/chat_edit_preview_widget.dart
-// Purpose: Separate reusable widget displaying edit message preview strip above input bar with cancel button in brokerflow-marketing.
+// Purpose: Separate reusable widget displaying edit message preview strip above input bar with cancel button in realty_marketing.
 
 import 'package:flutter/material.dart';
 import '../../../app/app_colors.dart';

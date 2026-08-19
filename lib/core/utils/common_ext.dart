@@ -1,5 +1,5 @@
 // File: lib/core/utils/common_ext.dart
-// Purpose: Centralized string and file extension helpers for file name extraction, type checking, labels, and formatting across Brokerflow Marketing.
+// Purpose: Centralized string and file extension helpers for file name extraction, type checking, labels, and formatting across Realty Marketing.
 
 import 'package:intl/intl.dart';
 

@@ -54,7 +54,7 @@ class _ProfileTabScreenState extends State<ProfileTabScreen> {
     final profile = context.watch<AuthProvider>().userProfile;
     final String name = profile?.name ?? 'Alex Marketing';
     final String role = (profile?.role?.displayName ?? 'Marketing Exec').toUpperCase();
-    final String email = profile?.email ?? 'marketing@brokerhive.com';
+    final String email = profile?.email ?? 'marketing@realtymarketing.app';
     final String phone = profile?.phone ?? '+91 98765 43210';
     return SingleChildScrollView(
       padding: AppConstants.getTabPadding(context),

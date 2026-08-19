@@ -1,5 +1,5 @@
 // File: lib/modules/chat/widgets/message_type/text_message_widget.dart
-// Purpose: Text message bubble component supporting multiline text in brokerflow-marketing.
+// Purpose: Text message bubble component supporting multiline text in realty_marketing.
 
 import 'package:flutter/material.dart';
 import '../../../../app/app_colors.dart';

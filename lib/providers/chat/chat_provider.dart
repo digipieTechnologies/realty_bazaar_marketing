@@ -1,5 +1,5 @@
 // File: lib/providers/chat/chat_provider.dart
-// Purpose: Generic Chat state provider supporting room initialization, real-time message streaming, seamless scroll pagination, soft-delete, inline edit, and multi-media attachments via JSONB medias in brokerflow-marketing.
+// Purpose: Generic Chat state provider supporting room initialization, real-time message streaming, seamless scroll pagination, soft-delete, inline edit, and multi-media attachments via JSONB medias in realty_marketing.
 
 import 'dart:io' as io;
 import 'package:flutter/foundation.dart';
