@@ -6,7 +6,7 @@ project(runner LANGUAGES CXX)
 # the on-disk name of your application.
 set(BINARY_NAME "realty_marketing")
 # The application ID of your application.
-set(APPLICATION_ID "com.realtymarketing.app")
+set(APPLICATION_ID "com.therealtybazaar.marketing")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.
